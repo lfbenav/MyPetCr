@@ -5,6 +5,8 @@ Proyecto final para el curso de Bases de Datos I.
 
 MyPetCR es una aplicación diseñada para una cadena de veterinarias que busca manejar diversos procesos de su negocio mediante el uso de bases de datos relacionales. El proyecto tiene como objetivo centralizar la gestión de pacientes, citas, ventas de productos y servicios, ofreciendo una solución integral para clientes y veterinarios.
 
+Este proyecto utiliza Java y MSSQL para funcionar.
+
 ### Características principales
 
 1. **Gestión de usuarios**:
